@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/real-time-chat.git
+    git clone https://github.com/SosoTaE/real-time-chat.git
     cd real-time-chat
     ```
 2.  **No external libraries are required** (besides `windows-curses` for Windows users). The project uses standard Python libraries.
